@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class IllegalTriagleExeption {
+public class IllegalTriangleException extends Exception {
 }
